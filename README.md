@@ -1,2 +1,2 @@
-# Programming-Contests
-My Code For All Programming Contests I've solved
+# Competitive-Programming
+Some of my solutions on programming competitions and exercises
